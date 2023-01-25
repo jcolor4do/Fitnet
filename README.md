@@ -1,2 +1,0 @@
-# FitnessApp
-proyecto titulación
