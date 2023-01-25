@@ -15,7 +15,7 @@ namespace FitnessApp.Data.Entities
         public string idRutina { get; set; }
         public string idCircuito { get; set; }
         public string seriesFinalizadas { get; set; }
-        public int PesoUsado { get; set; }
+        public double PesoUsado { get; set; }
         public string UnidadMedida { get; set; }
     }
 }
